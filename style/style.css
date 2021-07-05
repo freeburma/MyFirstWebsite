@@ -5,5 +5,44 @@
 */
 body 
 {
-    background: #f00;
+    background: rgb(125, 156, 103);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img 
+{
+    width: 400px;
+    height: auto;
+}
+
+/*
+    အသေးစိတ် စာမျက်နှာ ၁ 
+*/
+.myCSSClass
+{
+    background: #fff; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+/*
+    အသေးစိတ် စာမျက်နှာ ၂
+*/
+.myContainer
+{
+    width: 90%; 
+    
+    background: #fff;
+
+    
+}
+
+#photoId
+{
+    color: blue; 
 }
