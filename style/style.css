@@ -86,8 +86,39 @@ img
 .myForm label
 {
     padding-bottom: 0;
-    font-size: 16px;
+    font-size : 16px ;
     font-weight: bold;
     font-style: italic;
 }
  
+
+/* =============================================================================
+အစမ်း စာမျက်နှာ
+================================================================================*/
+.cssOverWritting
+{
+    background : #0f0 ; 
+}
+
+.cssOverWritting
+{
+    background : #f00 ; 
+}
+
+.blockStyle
+{
+    background: yellow; 
+}
+
+.inlineStyle 
+{
+    background: pink;
+}
+
+/*
+.myContainer .cssOverWritting
+{
+    background : #00f ;
+}
+*/
+
